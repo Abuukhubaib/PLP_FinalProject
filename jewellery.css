@@ -78,19 +78,19 @@ padding: 0 20px;
 text-decoration: none;
 font-size: 16px;
 font-weight: bold;
-color: green;
+color: #006633;
 transition: 0.3s ease;
 }
 #navlinks li a:hover,
 #navlinks li a.active{
-   color:yellowgreen;
+   color: #669966;
 }
 #navlinks li a.active::after,
 #navlinks li a:hover::after{
 content: "";
 width: 30%;
 height: 2px;
-background-color: yellowgreen;
+background-color: #669966;
 position: absolute;
 bottom: -4px;
 left: 20px;
