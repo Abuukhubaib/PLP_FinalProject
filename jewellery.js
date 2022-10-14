@@ -1,11 +1,11 @@
 var count = 0
 
-// if (document.readyState == 'loading'){
-//   document.addEventListener("DOMContentLoaded", ready);
-// }
-// else if (document.readyState == 'complete'){
-//   ready()
-// }
+if (document.readyState == 'loading'){
+  document.addEventListener("DOMContentLoaded", ready);
+  }
+ else if (document.readyState == 'complete'){
+   ready()
+}
 
 function ready(){ 
   var removeCartItemButtons = document.getElementsByClassName('btn-danger')
@@ -32,7 +32,6 @@ function ready(){
     count++
   } 
 }
-ready()
 
 function restoreCart() {
   var existingCartValues = JSON.parse(localStorage.getItem("CART_VALUES"))
@@ -155,7 +154,6 @@ function saveToLocalStorage(cartValues, existingCartValues){
     
     updateCartTotal();
     }
-    document.getElementsByClassName('fa-shopping-basket')[0].setAttribute('data-count', "1")
     
     
   }
