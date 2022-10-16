@@ -20,18 +20,19 @@ The About page has information about us whereas the contact page is a platform w
 
 Finally we have our cart page which stores all items added to cart. The system automatically does computation of the products in the cart and 
 gives the total cost.<br/><br/>
-You can as well remove any item you wish by clicking on the remove button and again the total cost is deducted accordingly.<br/>
+You can as well remove any item you wish to by clicking on the remove button and again the total cost is deducted accordingly.<br/>
 Once you are ready to purchase your items just click on the purchase button. A thank you message will pop up and all items will be cleared from the cart.
 <br/><br/>
 
+#### Cart page =>
 ![Cart page](cart.PNG) <br/><br/>
 
 #### Proper styling has been done to this website to make it attractive and user friendly.<br/><br/>
 
-### The languages used to write this website listed below<br/>
-## HTML<br/>
-## CSS<br/>
-## JavaScript<br/>
+### The languages used to write this website are listed below<br/>
+- HTML<br/>
+- CSS<br/>
+- JavaScript<br/>
 
 I am still working on this project to allow users to make their payments via credit card 💳 or mpesa before purchasing their products. I am also working on the cart 🛒 so that the number of items in it can be visible on top of the cart icon.
 
