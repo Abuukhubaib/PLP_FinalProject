@@ -121,7 +121,7 @@
     color: orangered;
   }
   #home .welcome h3{
-    padding: 5px 0;
+    padding: 20px 0;
     font-family: 'Courier New', Courier, monospace;
     font-weight: large;
     font-size: 24px;
@@ -131,7 +131,7 @@
   #home .welcome h4{
     padding: 20px 0 50px 0;
     font-family: 'Beau Rivage';
-    font-size: 26px;
+    font-size: 35px;
     text-shadow: 3px 3px 3px #ababab;
     color: #0c2344;
   }
