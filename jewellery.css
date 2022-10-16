@@ -100,7 +100,7 @@
   #home {
     width: 100%;
     min-width: 600px;
-    background-image: url('./Jewel-images/logo/logo-design.jpg');
+    background-image: url('./Jewel-images/logo/jewelry-logo-design.jpg');
     height: 100vh;
     overflow-wrap: normal;
     background-position: top 40% left 15rem;
@@ -111,7 +111,6 @@
   #home .welcome div{
     display: flex;
     justify-content: space-between;
-    padding-right: 23rem;
   }
   #home .welcome h1{
     padding: 0;
@@ -151,7 +150,7 @@
     box-shadow: 3px 3px 3px rgba(20, 30, 40, 0.8);
   }
   #home .welcome img{
-    height: 100px;
+    height: 150px;
     border-radius: 100%;
   }
  
