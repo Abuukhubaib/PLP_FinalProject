@@ -20,7 +20,7 @@ The 'About page' has information about us whereas the 'contact page' is a platfo
 ![About page](about.PNG) <br/><br/>
 ![Contact page](contact.PNG) <br/><br/><br/>
 
-Finally we have our 'cart page' which stores all items added to cart. From this page, you can either increase or reduce the number of a particular
+Finally we have our 'cart page' which stores all items added to cart. From this page, you can either increase or reduce the quantity of a particular
 product you want to purchase. The system automatically does the computation of the products in the cart and gives the total cost.<br/><br/>
 You can as well remove any item you wish to by clicking on the remove button and again the total cost is deducted accordingly.<br/><br/>
 Once you are ready to purchase your items just click on the purchase button. A thank you message will pop up and all items will be cleared from the cart.
